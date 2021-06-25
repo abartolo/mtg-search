@@ -1,0 +1,5 @@
+{
+    "explorer.compactFolders": false,
+    // "eslint.codeActionsOnSave.mode": "all",
+    "editor.formatOnSave": true,
+}
